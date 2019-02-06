@@ -1,4 +1,5 @@
 # cto-server-security-checklist
+
 Minimal checklist to secure your linux cloud servers. (AWS/Digitalocean/Linode)
 
 ## Vulnerability Management
